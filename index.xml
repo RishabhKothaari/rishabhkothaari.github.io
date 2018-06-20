@@ -6,10 +6,21 @@
     <description>Recent content on Rishab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 17 Jun 2018 12:04:37 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 19 Jun 2018 18:26:17 -0700</lastBuildDate>
     
 	<atom:link href="https://rishab-pdx.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>MNIST Digit classification with Neural Network</title>
+      <link>https://rishab-pdx.github.io/posts/neural-network/</link>
+      <pubDate>Tue, 19 Jun 2018 18:26:17 -0700</pubDate>
+      
+      <guid>https://rishab-pdx.github.io/posts/neural-network/</guid>
+      <description>Problem Perform the handwritten digit recognition task.This task involves classifying the MNIST digits into their respective classes(0,1,2,3,4,5,6,7,8,9).The MNIST dataset consists of 60,000 labelled images of handwritten digits and the task is to come up with a function that can classfify these digits into their respective classes.
+Data MNIST dataset
+ Training Set: http://www.pjreddie.com/media/files/mnist_train.csv Test Set: http://www.pjreddie.com/media/files/mnist_test.csv  Implementation The complete code with implementation and results can be found at Neural Network</description>
+    </item>
     
     <item>
       <title>Formula-1 Friend</title>
