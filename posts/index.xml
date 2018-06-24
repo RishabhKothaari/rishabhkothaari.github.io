@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Rishab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 Jun 2018 18:26:17 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 23 Jun 2018 16:34:38 -0700</lastBuildDate>
     
 	<atom:link href="https://rishab-pdx.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Neural Art</title>
+      <link>https://rishab-pdx.github.io/posts/neural-art/</link>
+      <pubDate>Sat, 23 Jun 2018 16:34:38 -0700</pubDate>
+      
+      <guid>https://rishab-pdx.github.io/posts/neural-art/</guid>
+      <description>About Deep neural networks have demonstrated a near-human performance in the areas of object detection and face recognition. However, these networks have never been used to create images which look and feel like artistic images. This research introduced by Leon A.Gatys et.al is a novel articial system based on a deep neural network that creates artistic images using neural representations to separate and recombine content and style of arbitrary images.</description>
+    </item>
     
     <item>
       <title>MNIST Digit classification with Neural Network</title>
