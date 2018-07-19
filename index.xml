@@ -6,10 +6,19 @@
     <description>Recent content on Rishab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 23 Jun 2018 16:34:38 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jul 2018 13:32:33 -0700</lastBuildDate>
     
 	<atom:link href="https://rishab-pdx.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Latex Digits Classifier</title>
+      <link>https://rishab-pdx.github.io/posts/latex-digits-classifier/</link>
+      <pubDate>Thu, 19 Jul 2018 13:32:33 -0700</pubDate>
+      
+      <guid>https://rishab-pdx.github.io/posts/latex-digits-classifier/</guid>
+      <description>Classification of Latex symbols using Convolution Neural Networks Dataset - The HASY dataset is derived from HWRT dataset and consists of handwritten symbols. The dataset consists of 168233 instances of black and white images of handwritten symbols. Each image is of size 32x32 labeled with labels. There are 369 labels in total. The dataset can be downloaded from HASY.This repository makes use of supervised learning to classify latex symbols from HASY dataset</description>
+    </item>
     
     <item>
       <title>Neural Art</title>
